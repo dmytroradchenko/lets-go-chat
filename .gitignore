@@ -1,0 +1,14 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+src/src
+
+# IDEs:
+.idea/
+.vscode/
+
+# logs:
+*.log
+*.log.*
